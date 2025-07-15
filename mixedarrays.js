@@ -17,3 +17,9 @@ userProfile[4].push("gaming");
 
 // Task 4: Display the updated profile
 console.log("Updated profile:", userProfile);
+Updated profile:
+Name: Sam
+Age: 29
+Active: true
+City: New York
+Hobbies: [ 'reading', 'cycling', 'gaming' ]
