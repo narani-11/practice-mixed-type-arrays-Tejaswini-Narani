@@ -17,6 +17,9 @@ userProfile[4].push("gaming");
 
 // Task 4: Display the updated profile
 console.log("Updated profile:", userProfile);
+
+
+Log the results:
 Updated profile:
 Name: Sam
 Age: 29
