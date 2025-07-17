@@ -19,7 +19,7 @@ userProfile[4].push("gaming");
 console.log("Updated profile:", userProfile);
 
 
-Log the results:
+// Log the results:
 Updated profile:
 Name: Sam
 Age: 29
